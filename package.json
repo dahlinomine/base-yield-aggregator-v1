@@ -1,0 +1,10 @@
+{
+  "name": "base-yield-aggregator-v1",
+  "version": "0.1.0",
+  "description": "Smart contracts for auto-compounding yields across Base DeFi protocols",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
